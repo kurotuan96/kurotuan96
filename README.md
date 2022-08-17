@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔭 I’m Front-end Developer<br>👯 I’m looking to collaborate on freelance projects<br>🌱 I’m currently learning nodejs to become a fullstack js developer<br>
 
+<div align="center">
+  <a href="https://kurodev.info/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anhtuan.kuro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anh-tu%E1%BA%A5n-nguy%E1%BB%85n-ng%E1%BB%8Dc-8b0746195/) 
