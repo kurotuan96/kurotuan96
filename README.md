@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Kuro1996"><img src="https://api.daily.dev/devcards/0ceda0587415412a8838269061e64dc1.png?r=0q4" width="400" alt="Tuan Nguyen's Dev Card"/></a>
+<a href="https://app.daily.dev/Kuro1996"><img src="https://api.daily.dev/devcards/0ceda0587415412a8838269061e64dc1.png?r=sf1" width="400" alt="Tuan Nguyen's Dev Card"/></a>
 # 💫 About Me:
 🔭 I’m Front-end Developer<br>👯 I’m looking to collaborate on freelance projects<br>🌱 I’m currently learning nodejs to become a fullstack js developer<br>
 
