@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-nguy%E1%BB%85n-ng%E1%BB%8Dc-8b0746195/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://facebook.com/https://www.facebook.com/anhtuan.kuro/">
+  <a href="https://facebook.com/anhtuan.kuro/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="FB Badge"/>
   </a>
   <a href="https://kurodev.info/">
